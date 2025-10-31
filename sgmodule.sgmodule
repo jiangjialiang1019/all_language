@@ -1,0 +1,39 @@
+[Script]
+# 开发者工具模块
+# 网络调试和开发辅助
+
+[Rule]
+# 开发环境直连
+DOMAIN-SUFFIX,localhost,DIRECT
+DOMAIN-SUFFIX,127.0.0.1,DIRECT
+DOMAIN-KEYWORD,local,DIRECT
+IP-CIDR,192.168.0.0/16,DIRECT
+IP-CIDR,10.0.0.0/8,DIRECT
+IP-CIDR,172.16.0.0/12,DIRECT
+
+# 开发工具代理
+DOMAIN-SUFFIX,github.com,PROXY
+DOMAIN-SUFFIX,gitlab.com,PROXY
+DOMAIN-SUFFIX,npmjs.com,PROXY
+DOMAIN-SUFFIX,stackoverflow.com,PROXY
+DOMAIN-SUFFIX,stackexchange.com,PROXY
+
+# API 服务
+DOMAIN-SUFFIX,api.github.com,PROXY
+DOMAIN-SUFFIX,raw.githubusercontent.com,PROXY
+
+[Script]
+# 开发调试脚本
+network-debug = type=http-request,pattern=^https?://.*\.(test|dev|local),script-path=https://example.com/scripts/debug.js
+
+# API Mock
+api-mock = type=http-response,pattern=^https?://api\.example\.com/test,script-path=https://example.com/scripts/mock.js,requires-body=true
+
+[URL Rewrite]
+# 开发环境重定向
+^https?://api\.production\.com https://api.development.com 302
+^https?://www\.production\.com http://localhost:3000 302
+
+[MITM]
+hostname = *.test, *.dev, *.local, api.example.com
+skip-server-cert-verify = true
