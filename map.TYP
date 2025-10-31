@@ -1,3 +1,7 @@
+# ================================
+# 特殊文件解析证明材料
+# 生成时间: 2025
+# ================================
 [Render Rules]
 Version=1.0
 Description=Custom Topographic Rendering
