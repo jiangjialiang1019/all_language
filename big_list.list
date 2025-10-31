@@ -1,0 +1,301 @@
+# ================================
+# 综合项目列表文件
+# 生成时间: 2024
+# ================================
+
+# 1. 编程语言列表
+Python
+JavaScript
+TypeScript
+Java
+C++
+C#
+Go
+Rust
+Swift
+Kotlin
+PHP
+Ruby
+Scala
+Perl
+R
+Dart
+Lua
+Julia
+Haskell
+Elixir
+
+# 2. 前端框架和库
+React
+Vue.js
+Angular
+Svelte
+Next.js
+Nuxt.js
+Gatsby
+Three.js
+D3.js
+jQuery
+Bootstrap
+Tailwind CSS
+Material-UI
+Ant Design
+Vuetify
+
+# 3. 后端框架
+Express.js
+Django
+Flask
+Spring Boot
+Laravel
+Ruby on Rails
+ASP.NET Core
+FastAPI
+Gin
+Koa
+NestJS
+Phoenix
+Actix
+
+# 4. 数据库系统
+MySQL
+PostgreSQL
+MongoDB
+Redis
+SQLite
+Oracle
+Microsoft SQL Server
+Cassandra
+Elasticsearch
+Neo4j
+InfluxDB
+ClickHouse
+DynamoDB
+
+# 5. 操作系统
+Windows 10
+Windows 11
+macOS Monterey
+macOS Ventura
+Ubuntu
+Debian
+CentOS
+Fedora
+Arch Linux
+Kali Linux
+Android
+iOS
+FreeBSD
+OpenBSD
+
+# 6. 开发工具
+Visual Studio Code
+IntelliJ IDEA
+PyCharm
+WebStorm
+Sublime Text
+Vim
+Neovim
+Emacs
+Git
+Docker
+Kubernetes
+Postman
+Figma
+Jira
+Confluence
+
+# 7. 云服务提供商
+Amazon Web Services
+Microsoft Azure
+Google Cloud Platform
+Alibaba Cloud
+IBM Cloud
+Oracle Cloud
+DigitalOcean
+Heroku
+Vercel
+Netlify
+
+# 8. 协议和标准
+HTTP/1.1
+HTTP/2
+HTTP/3
+WebSocket
+REST
+GraphQL
+gRPC
+OAuth 2.0
+OpenID Connect
+JWT
+SSL/TLS
+IPv4
+IPv6
+DNS
+FTP
+SSH
+
+# 9. 文件格式
+JSON
+XML
+YAML
+CSV
+PDF
+JPEG
+PNG
+GIF
+MP4
+MP3
+ZIP
+TAR.GZ
+DOCX
+XLSX
+PPTX
+
+# 10. 常用软件
+Google Chrome
+Mozilla Firefox
+Microsoft Edge
+Safari
+Slack
+Discord
+Zoom
+Microsoft Teams
+Spotify
+Adobe Photoshop
+Microsoft Office
+LibreOffice
+7-Zip
+WinRAR
+
+# 11. 编程概念
+Object-Oriented Programming
+Functional Programming
+Procedural Programming
+Event-Driven Programming
+Aspect-Oriented Programming
+Test-Driven Development
+Domain-Driven Design
+Microservices
+Monolithic Architecture
+Serverless Computing
+Containerization
+Virtualization
+CI/CD
+DevOps
+Agile Methodology
+
+# 12. 数据结构
+Array
+Linked List
+Stack
+Queue
+Tree
+Binary Tree
+Binary Search Tree
+Heap
+Hash Table
+Graph
+Trie
+Set
+Map
+Matrix
+
+# 13. 算法分类
+Sorting Algorithms
+Searching Algorithms
+Dynamic Programming
+Greedy Algorithms
+Divide and Conquer
+Backtracking
+Recursion
+Graph Algorithms
+String Algorithms
+Numerical Algorithms
+Machine Learning Algorithms
+
+# 14. 网络概念
+TCP/IP Model
+OSI Model
+Load Balancing
+CDN
+Proxy Server
+Firewall
+VPN
+DNS
+DHCP
+NAT
+Subnetting
+Routing
+Switching
+
+# 15. 安全相关
+Encryption
+Hashing
+Digital Signature
+Penetration Testing
+Vulnerability Assessment
+Social Engineering
+Phishing
+Malware
+Ransomware
+Firewall Rules
+Access Control
+Two-Factor Authentication
+Biometric Authentication
+
+# 16. 移动开发
+React Native
+Flutter
+Ionic
+Xamarin
+NativeScript
+SwiftUI
+Jetpack Compose
+
+# 17. 游戏开发
+Unity
+Unreal Engine
+Godot
+Cocos2d
+Phaser
+GameMaker Studio
+RPG Maker
+
+# 18. 人工智能/机器学习
+TensorFlow
+PyTorch
+Keras
+Scikit-learn
+OpenCV
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Jupyter Notebook
+Hugging Face
+LangChain
+
+# 19. 区块链相关
+Bitcoin
+Ethereum
+Smart Contracts
+Solidity
+Web3.js
+IPFS
+DeFi
+NFT
+DAO
+Consensus Algorithms
+
+# 20. 其他技术
+Internet of Things
+Augmented Reality
+Virtual Reality
+Quantum Computing
+Edge Computing
+5G Technology
+Robotics
+Computer Vision
+Natural Language Processing
+Big Data Analytics
